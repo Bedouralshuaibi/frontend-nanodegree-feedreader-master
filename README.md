@@ -19,3 +19,7 @@ Testing go through 4 stages:
 
  * The Fourth suite -
     test and ensures when a new feed is loaded by the loadFeed function that the content actually changes.
+#To Run the Project
+- clone or download the project.
+- open index.html to find the web-based application.
+- You can find Jasmine testing in the (jasmine/spec/feedreader.js). 
